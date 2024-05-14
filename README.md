@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a software engineer interested in building computer software. My current focus is on computer systems and infrastructure.
+- 🌱 I’m currently learning storage systems
+- 📫 How to reach me: [twitter](https://twitter.com/nmanu__) or [email](mailto:n.k.a.manu06@gmail.com)
+
+
 <!--
 **claeusdev/claeusdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
