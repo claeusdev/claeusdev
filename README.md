@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm a software engineer. 
 
-- 📫 How to reach me: [twitter](https://twitter.com/nmanu__) or [email](mailto:n.k.a.manu06@gmail.com)
+- 🌱 I'm a software engineer.
+- 🔭 Python | Go | Ruby | Python
+- 📫 How to reach me: [linkedin](https://linkedin.com/in/nana-adjei-manu) | [twitter](https://twitter.com/nmanu__) | [email](mailto:n.k.a.manu06@gmail.com)
 
 
 <!--
