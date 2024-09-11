@@ -2,6 +2,7 @@
 
 
 - 🌱 I'm a software engineer.
+- 🔭 Distributed Systems & Databases
 - 📫 How to reach me: [linkedin](https://linkedin.com/in/nana-adjei-manu) | [twitter](https://twitter.com/nmanu__) | [email](mailto:n.k.a.manu06@gmail.com)
 
 
